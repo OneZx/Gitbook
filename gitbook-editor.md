@@ -46,6 +46,7 @@ github : [https://github.com/](https://github.com/)
 
 * **node 6.x** [https://nodejs.org/dist/latest-v6.x/](https://nodejs.org/dist/latest-v6.x/) 选择适合版本安装
 
+<br>
 > **2.安装gitbook cli**
 
 1. `npm install -g gitbook-cli`   这里的`-g`表示全局安装
