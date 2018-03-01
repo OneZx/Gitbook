@@ -29,6 +29,7 @@
 
 > **表格**
 
+- 最简单版
 ```
   id    |   name   |   score
   ---   |   ---    |   ---
@@ -36,6 +37,12 @@
   002   |   Ford   |   80
   003   |   Alan   |   95
 ```
+
+id | name | score
+--- | --- | ---
+001 | Mark | 90
+002 | Ford | 80
+003 | Alan | 95
 
 ```
 | id | name | score |
