@@ -142,13 +142,11 @@ _这是斜体_
 
 > **段落代码块**,使用` ``` ` 包裹内容
 
-```
-```
+```py
 我是多行代码块
-    from django.urls import path, include
+    from django.urls import include
 
     path("captcha/", include('captcha.urls'))
-```
 ```
 
 ### 6. 分割线
