@@ -34,9 +34,9 @@ github : <https://github.com/>
     ![](/assets/a1.png)
 - 显示出node版本表示已经安装好node了, 要本地导出, 建议安装6.x的node版本
 
-**node以往版本** <https://nodejs.org/zh-cn/download/releases/>
+- **node以往版本** <https://nodejs.org/zh-cn/download/releases/>
 
-**node 6.x** <https://nodejs.org/dist/latest-v6.x/> 选择适合版本安装
+- **node 6.x** <https://nodejs.org/dist/latest-v6.x/> 选择适合版本安装
 
 > 2.安装gitbook cli
 
@@ -74,3 +74,4 @@ github : <https://github.com/>
 
 
 #### 4. gitbook与github绑定
+> 下次写 累了
