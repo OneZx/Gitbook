@@ -133,7 +133,7 @@ _这是斜体_
 ```
 `我是行内代码`
 `function(){}`
-`class Python:`
+`class Users:`
 ```
 
 ### 6. 分割线
