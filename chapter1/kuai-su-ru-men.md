@@ -195,6 +195,7 @@ ___
 ![demo](/assets/demo.png)
 ```
 效果如下
-![demo](/assets/demo.png)
+
+  ![demo](/assets/demo.png)
 
 
