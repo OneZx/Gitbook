@@ -25,7 +25,7 @@ github : <https://github.com/>
 **其他操作自己研究吧~~~~**
 
 #### 3. gitbook本地导出
-> 1. 安装node.js <https://nodejs.org/en/download/>
+> 1.安装node.js <https://nodejs.org/en/download/>
 
 - `win+R` 打开cmd
 - 查看node版本 `node -v`
@@ -38,6 +38,8 @@ github : <https://github.com/>
 
 **node 6.x** <https://nodejs.org/dist/latest-v6.x/> 选择适合版本安装
 
-> 2. 安装gitbook cli
+> 2.安装gitbook cli
+
+- `npm install -g gitbook-cli`   这里的`-g`表示全局安装
 
 #### 4. gitbook与github绑定
