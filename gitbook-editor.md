@@ -6,3 +6,5 @@ gitbook editor : <https://www.gitbook.com/editor>
 
 github : <https://github.com/>
 - 如果没有github,就注册一个github账号
+
+#### gitbook editor说明
