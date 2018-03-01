@@ -49,7 +49,21 @@ github : <https://github.com/>
     ![](/assets/g2.png)
 
 1. cd到book的目录,把文件拖入
+    ![](/assets/cd.png)
+
+1. 输入`gitbook build`回车 导出gitbook 不出意外可以导出
+
+> 3.版本问题
+
+- 如果安装的是最新版本的gitbook那么无法在url为file://时完成目录跳转,所以建议装3.0以下的老版本
+
+- 查看老版本 指令`gitbook ls-remote`
+
+    ![](/assets/g3.png)
     
+- 安装2.6.7版本 `gitbook fetch 2.6.7`
+
+- 查看安装的版本`gitbook ls`
 
 
 #### 4. gitbook与github绑定
