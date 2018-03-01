@@ -25,6 +25,10 @@ github : <https://github.com/>
 **其他操作自己研究吧~~~~**
 
 #### 3. gitbook本地导出
+> 1. 安装node.js <https://nodejs.org/en/download/>
+
+
+
 
 
 #### 4. gitbook与github绑定
