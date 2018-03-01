@@ -74,4 +74,4 @@ github : <https://github.com/>
 
 
 #### 4. gitbook与github绑定
-> 下次写 累了
+> 下次写
