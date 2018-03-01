@@ -36,4 +36,6 @@ github : <https://github.com/>
 
 **node以往版本** <https://nodejs.org/zh-cn/download/releases/>
 
+**node 6.x** <https://nodejs.org/dist/latest-v6.x/>
+
 #### 4. gitbook与github绑定
