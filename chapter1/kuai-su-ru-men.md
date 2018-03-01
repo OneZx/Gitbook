@@ -149,14 +149,15 @@ _这是斜体_
 `function(){}`  
 `def Users:`
 
-> **多行代码块**,使用``````` ```` 包裹内容,上面的``````` ````可以后面跟`py,js`等表示什么语言
+> **多行代码块**,使用` ``` `包裹内容,后面跟`py,js`等表示什么语言,也可以不加
 
+```
     ```py
     我是多行代码块
         from django.urls import include
 
         path("captcha/", include('captcha.urls'))
-    ```
+    ``````
 
 效果如下
 
