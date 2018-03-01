@@ -31,6 +31,7 @@ github : <https://github.com/>
 - 查看node版本 `node -v`
 - 查看npm版本  `npm -v`
 
-
+![](/assets/a1.png)
+显示出node版本表示已经安装好node了,要本地导出,建议安装6.x的node版本
 
 #### 4. gitbook与github绑定
