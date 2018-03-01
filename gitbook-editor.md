@@ -6,6 +6,7 @@ gitbook editor : <https://www.gitbook.com/editor>
 
 github : <https://github.com/>
 - 如果没有github,就注册一个github账号
+---
 
 #### 2. gitbook editor说明
 
@@ -23,6 +24,8 @@ github : <https://github.com/>
 
 
 **其他操作自己研究吧~~~~**
+
+---
 
 #### 3. gitbook本地导出
 > 1.安装node.js <https://nodejs.org/en/download/>
@@ -72,6 +75,7 @@ github : <https://github.com/>
 
 ![](/assets/end.png)
 
+---
 
 #### 4. gitbook与github绑定
 > 下次写
