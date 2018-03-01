@@ -66,5 +66,11 @@ github : <https://github.com/>
 - 查看安装的版本`gitbook ls`
 - 以指定版本号导出 `gitbook build --gitbook=2.6.7`
 
+> 4.导出后的目录
+
+- 在文件目录中 新增了一个`_book`文件夹 此为导出文件
+
+![](/assets/end.png)
+
 
 #### 4. gitbook与github绑定
