@@ -232,7 +232,7 @@ _这是斜体_
 
 ```
 
-| long\_long\_id | long\_long\_name | long\_long\_score |
+| id | name | score |
 | :--- | :---: | ---: |
 | 001 | Mark | 90 |
 | 002 | Ford | 80 |
