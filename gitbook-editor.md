@@ -38,4 +38,6 @@ github : <https://github.com/>
 
 **node 6.x** <https://nodejs.org/dist/latest-v6.x/> 选择适合版本安装
 
+> 2. 安装gitbook cli
+
 #### 4. gitbook与github绑定
