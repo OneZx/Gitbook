@@ -62,6 +62,7 @@ github : [https://github.com/](https://github.com/)
 
 4. 输入`gitbook build`回车 导出gitbook 不出意外可以导出
 
+<br>
 > **3.版本问题**
 
 * 如果安装的是最新版本的gitbook那么无法在url为file://时完成目录跳转,所以建议装3.0以下的老版本
