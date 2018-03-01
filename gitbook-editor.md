@@ -10,7 +10,7 @@ github : <https://github.com/>
 
 #### 2. gitbook editor说明
 
-> 界面
+> **界面**
 
 ![](/assets/gitbook.png)
 
