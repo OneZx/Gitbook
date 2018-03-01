@@ -6,7 +6,7 @@ gitbook editor : [https://www.gitbook.com/editor](https://www.gitbook.com/editor
 
 github : [https://github.com/](https://github.com/)
 
-    - 如果没有github,就注册一个github账号
+  - 如果没有github,就注册一个github账号
 
 ---
 
