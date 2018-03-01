@@ -41,5 +41,7 @@ github : <https://github.com/>
 > 2.安装gitbook cli
 
 - `npm install -g gitbook-cli`   这里的`-g`表示全局安装
+![](/assets/gitb.png)
+- 检测是否安装成功 `gitbook -v` 
 
 #### 4. gitbook与github绑定
