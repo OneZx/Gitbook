@@ -20,3 +20,10 @@ github : <https://github.com/>
 > sidebar上鼠标右键 新建article
 
 ![](/assets/sidebar.png)
+
+
+**其他操作自己研究吧~~~~**
+
+#### 3. gitbook本地导出
+
+#### 4. gitbook与github绑定
