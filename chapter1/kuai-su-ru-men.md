@@ -204,11 +204,6 @@ _这是斜体_
 
 效果: [百度](https://www.baidu.com/)
 
-- 也可以使用`<https:baidu.com/>`
-
-<https:baidu.com/>
-
-
 
 
 > **图片**, 使用`![图片名称](地址)`来插入图片
