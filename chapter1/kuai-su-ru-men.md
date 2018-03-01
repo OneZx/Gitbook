@@ -149,7 +149,15 @@ _这是斜体_
 
     path("captcha/", include('captcha.urls'))
 ``````
+效果如下
 
+```py
+我是多行代码块
+    from django.urls import include
+
+    path("captcha/", include('captcha.urls'))
+
+```
 ### 6. 分割线
 > **分割线**, 使用`---`,`___`或`***`表示分割线
 
