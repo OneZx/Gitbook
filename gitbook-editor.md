@@ -64,6 +64,7 @@ github : <https://github.com/>
 - 安装2.6.7版本 `gitbook fetch 2.6.7`
 
 - 查看安装的版本`gitbook ls`
+- 以指定版本号导出 `gitbook build --gitbook=2.6.7`
 
 
 #### 4. gitbook与github绑定
