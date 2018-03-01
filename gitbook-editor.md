@@ -76,6 +76,7 @@ github : [https://github.com/](https://github.com/)
 * 查看安装的版本`gitbook ls`
 
 * 以指定版本号导出 `gitbook build --gitbook=2.6.7`
+  ![](/assets/done.png)
 
 <br>
 > **4.导出后的目录**
