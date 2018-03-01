@@ -31,8 +31,8 @@ github : <https://github.com/>
 - 查看node版本 `node -v`
 - 查看npm版本  `npm -v`
 
-![](/assets/a1.png)
-显示出node版本表示已经安装好node了, 要本地导出, 建议安装6.x的node版本
+    ![](/assets/a1.png)
+- 显示出node版本表示已经安装好node了, 要本地导出, 建议安装6.x的node版本
 
 **node以往版本** <https://nodejs.org/zh-cn/download/releases/>
 
@@ -40,11 +40,16 @@ github : <https://github.com/>
 
 > 2.安装gitbook cli
 
-- `npm install -g gitbook-cli`   这里的`-g`表示全局安装
+1. `npm install -g gitbook-cli`   这里的`-g`表示全局安装
 
-![](/assets/gitb.png)
+    ![](/assets/gitb.png)
 
-- 检测是否安装成功 `gitbook -v`   这里的`-V`大写
+1. 检测是否安装成功 `gitbook -v`   这里的`-V`大写
 
-![](/assets/g2.png)
+    ![](/assets/g2.png)
+
+1. cd到book的目录,把文件拖入
+    
+
+
 #### 4. gitbook与github绑定
