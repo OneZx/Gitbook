@@ -77,6 +77,7 @@ github : [https://github.com/](https://github.com/)
 
 * 以指定版本号导出 `gitbook build --gitbook=2.6.7`
 
+<br>
 > **4.导出后的目录**
 
 * 在文件目录中 新增了一个`_book`文件夹 此为导出文件
