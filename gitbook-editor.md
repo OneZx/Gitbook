@@ -17,4 +17,6 @@ github : <https://github.com/>
 - 可以看见`show preview`预览
 - `show sidebar` 显示左边sidebar
 
-> 鼠标右键 新建article
+> sidebar上鼠标右键 新建article
+
+![](/assets/sidebar.png)
