@@ -20,8 +20,6 @@ github : [https://github.com/](https://github.com/)
 * 可以看见`show preview`预览
 * `show sidebar` 显示左边sidebar
 
-
-
 > **sidebar上鼠标右键 新建article**
 
 
