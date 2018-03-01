@@ -16,3 +16,5 @@ github : <https://github.com/>
 - 右下键有个`?`号,点击可以显示`edit markdown`
 - 可以看见`show preview`预览
 - `show sidebar` 显示左边sidebar
+
+> 鼠标右键 新建article
