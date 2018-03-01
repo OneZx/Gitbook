@@ -21,12 +21,12 @@
 
 
   ```
-  ![demo](/assets/demo.png)
+  ![demo](/assets/vue.png)
   ```
 
   效果如下
 
-  ![demo](/assets/demo.png)
+![](/assets/vue.png)
 
 ---
 
