@@ -6,7 +6,7 @@
   * [Img and table](chapter1/img-and-table.md)
 * [编辑器推荐](bian-ji-qi-tui-jian.md)
   * [gitbook editor](gitbook-editor.md)
-  * sublime Text3
+  * [sublime Text3](sublime-text3.md)
   * Vs code
   * Atom
 
