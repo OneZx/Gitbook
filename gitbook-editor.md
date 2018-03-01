@@ -27,7 +27,9 @@ github : <https://github.com/>
 #### 3. gitbook本地导出
 > 1. 安装node.js <https://nodejs.org/en/download/>
 
-
+- `win+R` 打开cmd
+- 查看node版本 `node -v`
+- 查看npm版本  `npm -v`
 
 
 
