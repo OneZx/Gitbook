@@ -28,7 +28,7 @@ github : <https://github.com/>
 ---
 
 #### 3. gitbook本地导出
-> 1.安装node.js <https://nodejs.org/en/download/>
+> **1.安装node.js** <https://nodejs.org/en/download/>
 
 - `win+R` 打开cmd
 - 查看node版本 `node -v`
@@ -41,7 +41,7 @@ github : <https://github.com/>
 
 - **node 6.x** <https://nodejs.org/dist/latest-v6.x/> 选择适合版本安装
 
-> 2.安装gitbook cli
+> **2.安装gitbook cli**
 
 1. `npm install -g gitbook-cli`   这里的`-g`表示全局安装
 
@@ -56,7 +56,7 @@ github : <https://github.com/>
 
 1. 输入`gitbook build`回车 导出gitbook 不出意外可以导出
 
-> 3.版本问题
+> **3.版本问题**
 
 - 如果安装的是最新版本的gitbook那么无法在url为file://时完成目录跳转,所以建议装3.0以下的老版本
 
@@ -69,7 +69,7 @@ github : <https://github.com/>
 - 查看安装的版本`gitbook ls`
 - 以指定版本号导出 `gitbook build --gitbook=2.6.7`
 
-> 4.导出后的目录
+> **4.导出后的目录**
 
 - 在文件目录中 新增了一个`_book`文件夹 此为导出文件
 
