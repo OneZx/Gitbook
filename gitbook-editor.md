@@ -89,7 +89,7 @@ github : [https://github.com/](https://github.com/)
 
 #### 4. gitbook与github绑定
 
-> 下次写 太多了
+> 注册github账号
 
 
 
