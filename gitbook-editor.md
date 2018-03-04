@@ -101,3 +101,4 @@ github : [https://github.com/](https://github.com/)
 
 ![](/assets/github.png)
 
+- 在gitbook editor中点击右上角的`sync (publish)`
