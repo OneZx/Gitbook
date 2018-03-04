@@ -89,7 +89,7 @@ github : [https://github.com/](https://github.com/)
 
 #### 4. gitbook与github绑定
 
-> 注册github账号
+> 到github新建一个空白的仓库,并复制git仓库地址`https`
 
 
 
