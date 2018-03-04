@@ -91,5 +91,11 @@ github : [https://github.com/](https://github.com/)
 
 > 在github中新建一个仓库,并复制git仓库地址`https`(gitbook暂时不支持SSH)
 
+![](/assets/12.png)
+
+- 新建repository,不用输入其他描述
+ 
+![](/assets/gitbookS.png)
+
 
 
