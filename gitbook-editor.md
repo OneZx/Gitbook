@@ -105,3 +105,5 @@ github : [https://github.com/](https://github.com/)
 
 ![](/assets/publish.png)
 
+- 输入github 账号密码 即可
+
