@@ -103,3 +103,5 @@ github : [https://github.com/](https://github.com/)
 
 - 在gitbook editor中点击右上角的`sync (publish)`
 
+![](/assets/publish.png)
+
