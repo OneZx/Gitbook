@@ -31,6 +31,9 @@ github : [https://github.com/](https://github.com/)
 ---
 
 #### 3. gitbook本地导出
+> 1. 安装node.js <https://nodejs.org/en/download/>
+
+
 
 > **1.安装node.js** [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
